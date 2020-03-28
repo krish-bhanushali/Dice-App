@@ -8,6 +8,10 @@ Playing a board game ,YOU DONT HAVE A DICE! nothing to worry about USE this to g
 After my static app this one is the second one I made and added some functionality by learning and playing with widgets.Again planing on
 to increase its capabilities as I run more
 
+# Visuals
+- home page
+![](images/Dicenew.png)
+- Icon
 
 
 # Future versions
