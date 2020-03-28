@@ -9,9 +9,13 @@ After my static app this one is the second one I made and added some functionali
 to increase its capabilities as I run more
 
 # Visuals
-- home page
-![](images/Dicenew.png)
 - Icon
+- ![](images/andIcon.png)
+- Homepage
+- ![](images/Dicenew.png)
+
+
+
 
 
 # Future versions
