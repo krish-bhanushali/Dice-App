@@ -1,6 +1,20 @@
-# diceapplication
+# Dice-App
 
-A new Flutter application.
+Another of my Flutter application.
+Playing a board game ,YOU DONT HAVE A DICE! nothing to worry about USE this to get your game running 
+
+# Introduction
+
+After my static app this one is the second one I made and added some functionality by learning and playing with widgets.Again planing on
+to increase its capabilities as I run more
+
+
+
+# Future versions
+- No of Dice would be managable
+- will try to include one small game too.
+- and many more
+
 
 ## Getting Started
 
